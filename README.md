@@ -1,2 +1,2 @@
 # latex-curl
-tianon/latex with curl preinstalled
+debian with latex and curl preinstalled
